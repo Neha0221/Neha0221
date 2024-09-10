@@ -16,7 +16,7 @@ I'm a final-year Computer Science student at IIIT Vadodara with a passion for so
   A complete e-commerce grocery app built with Flutter, Node.js, and MongoDB.
 
 ## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/neha-singh-123456/)
+- [LinkedIn](https://www.linkedin.com/in/neha-singh-152630248/)
 - [Email](mailto:ns0638835@gmail.com)
 
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neha0221&show_icons=true&theme=radical)
