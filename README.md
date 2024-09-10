@@ -1,6 +1,6 @@
 ## 🌟 Introduction
 - I'm a fourth-year B.Tech (CSE) student from IIIT Vadodara, seeking a Software Engineering role.
-- I thrive on problem-solving and have tackled 500+ DSA questions on LeetCode and GFG. 💪
+- I thrive on problem-solving and have tackled 500+ DSA questions on LeetCode. 💪
 - I'm passionate about mobile app development and have built several applications. 📱
 - I use **Flutter** for frontend, **Node.js** for backend, and **MongoDB** as the database. 🔧
 - One of my notable projects is the **Graph Traversal Visualizer**, a window-based app that dynamically visualizes and compares graph traversal algorithms. 🧩
