@@ -36,7 +36,7 @@
 ---
 
 ## 💼 Experience
-**Transformer Reinforcement Learning: Research Internship (June 2024 - August 2024)**  
+**[Transformer Reinforcement Learning: (Research Internship)(https://github.com/Neha0221/reinforcement_learning)June 2024 - August 2024]**  
 - Investigated foundational concepts of Transformer Reinforcement Learning.  
 - Developed and tested Q-Learning (QN) and Transformer-based (TRL) models in Lunar Lander and Cartpole environments. 🚀
 
